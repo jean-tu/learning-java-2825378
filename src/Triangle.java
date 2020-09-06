@@ -1,4 +1,7 @@
 public class Triangle {
+
+    static int numOfSides = 3; //will not be able to be modified
+
     double base;
     double height;
     double sideLenOne;

@@ -13,6 +13,8 @@ public class Main {
         System.out.println(triangleA.sideLenThree);
         System.out.println(triangleB.base);
 
+        System.out.println(Triangle.numOfSides);
+
         // Triangle.findArea()? --> Math.pow(2,3)?
 
 
